@@ -43,3 +43,5 @@ gem "base64"
 gem "logger"
 gem "faraday-retry"
 gem "kramdown-parser-gfm"
+
+gem "webrick", "~> 1.9"
